@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **srijayanthpotluri@gmail.com**
 
-- ⚡ Fun fact **I am sometimes a bit curious**
+- ⚡ Fun fact **I am always curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
