@@ -3,6 +3,7 @@
 <h3 align="center">A Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanthpotluri5513&label=Profile%20views&color=0e75b6&style=flat" alt="jayanthpotluri5513" /> </p>
+![Dmytro Baida's LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/srijayanthpotluri?bgColor=fff)
 
 <p align="left"> <a href="https://twitter.com/srijayanth potluri" target="blank"><img src="https://img.shields.io/twitter/follow/srijayanth potluri?logo=twitter&style=for-the-badge" alt="srijayanth potluri" /></a> </p>
 
@@ -13,6 +14,8 @@
 - 📫 How to reach me **srijayanthpotluri@gmail.com**
 
 - ⚡ Fun fact **I am always curious**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
